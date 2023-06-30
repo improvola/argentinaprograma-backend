@@ -9,7 +9,7 @@ D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Repository\IPersonaRepositor
 D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Security\Dto\LoginUsuario.java
 D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Security\Dto\NuevoUsuario.java
 D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Security\jwt\JwtProvider.java
-D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Security\Repository\iRolRepository.java
+D:\Proyecto\BackEnd\src\main\java\com\portfolio\imp\Security\Repository\iRolRepository.java
 D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Service\Shys.java
 D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Repository\Rhys.java
 D:\Proyecto\BackEnd\src\main\java\com\portfolio\mgb\Security\Entity\Usuario.java
